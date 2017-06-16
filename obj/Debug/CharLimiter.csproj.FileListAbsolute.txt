@@ -1,0 +1,13 @@
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\SDPlugins_Cheacter Limiter.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\SDPlugins_Cheacter Limiter.pdb
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Assembly-CSharp.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Rocket.API.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Rocket.Core.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Rocket.Unturned.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\UnityEngine.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Debug\Unturned.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Debug\CharLimiter.csprojResolveAssemblyReference.cache
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Debug\SDPlugins_Cheacter Limiter.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Debug\SDPlugins_Cheacter Limiter.pdb

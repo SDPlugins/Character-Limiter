@@ -20,3 +20,8 @@ C:\Users\Karl Rehm\Documents\Visual Studio 2017\Projects\SDPlugins\Character Lim
 C:\Users\Karl Rehm\Documents\Visual Studio 2017\Projects\SDPlugins\Character Limiter\obj\Release\SDPlugins_Cheacter Limiter.dll
 C:\Users\Karl Rehm\Documents\Visual Studio 2017\Projects\SDPlugins\Character Limiter\obj\Release\SDPlugins_Cheacter Limiter.pdb
 C:\Users\Karl Rehm\Documents\Visual Studio 2017\Projects\SDPlugins\Character Limiter\bin\Release\Unturned.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Release\SDPlugins_Character Limiter.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\bin\Release\SDPlugins_Character Limiter.pdb
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Release\CharLimiter.csprojResolveAssemblyReference.cache
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Release\SDPlugins_Character Limiter.dll
+C:\Users\klreh\Documents\SDPlugins\Character Limiter\obj\Release\SDPlugins_Character Limiter.pdb
