@@ -18,11 +18,13 @@ namespace SDPlugins
     public class CharLimiterConfig : IRocketPluginConfiguration
     {
         public int CharAmount;
+        public int KickTime;
         public SerializableDictionary<CSteamID, List<bool>> totalCharacters;
 
         public void LoadDefaults()
         {
             CharAmount = 2;
+            KickTime = 2;
             totalCharacters = new SerializableDictionary<CSteamID, List<bool>>();
         }
     }
@@ -55,7 +57,7 @@ namespace SDPlugins
         }
         public IEnumerator KickPlayer(UnturnedPlayer player)
         {
-            yield return new WaitForSeconds(10);
+            yield return new WaitForSeconds(Init.instance.Configuration.Instance.KickTime);
             Provider.kick(player.CSteamID, Translate("char_limit_exceeded_kick", Configuration.Instance.CharAmount));
         }
 
